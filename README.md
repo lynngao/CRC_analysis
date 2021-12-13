@@ -2,6 +2,7 @@
 
 This repository contains R scripts for running the analysis described in our manuscript. 
 The R scripts can be divided into 4 basic components:
+
 #### 1. Training Random forests, LASSO and SVM classifiers on within-dataset, cross-dataset and leave-one-dataset-out experimental settings
 - [3classifiers.R](https://github.com/lynngao/CRC_analysis/blob/main/3classifiers.R): helper file contains functions for theses three classifiers.
 - [3classifiers_example.R](https://github.com/lynngao/CRC_analysis/blob/main/3classifiers_example.R): one example about how to run the three classifiers using the helper file.
@@ -18,3 +19,6 @@ The R scripts can be divided into 4 basic components:
 - [ComBat.R](https://github.com/lynngao/CRC_analysis/blob/main/ComBat.R): helper file contains functions for running ComBat before random forests.
 - [ComBat_example.R](https://github.com/lynngao/CRC_analysis/blob/main/ComBat_example.R): one example about how to run ComBat using the helper file.
 
+For running tasks 1 and 4, microbial species abundance profiles are required. See abundance profiles in [abundance folder](https://github.com/lynngao/CRC_analysis/tree/main/abundance) as example of the format of required profiles,.
+
+For For running tasks 2 and 3, both microbial species abundance profiles and prediction probability files are required. 
