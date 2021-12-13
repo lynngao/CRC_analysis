@@ -19,6 +19,6 @@ The R scripts can be divided into 4 basic components:
 - [ComBat.R](https://github.com/lynngao/CRC_analysis/blob/main/ComBat.R): helper file contains functions for running ComBat before random forests.
 - [ComBat_example.R](https://github.com/lynngao/CRC_analysis/blob/main/ComBat_example.R): one example about how to run ComBat using the helper file.
 
-For running tasks 1 and 4, microbial species abundance profiles are required. See abundance profiles in [abundance folder](https://github.com/lynngao/CRC_analysis/tree/main/abundance) as example of the format of required profiles,.
+For running tasks 1 and 4, microbial species abundance profiles are required. See abundance profiles in [abundance](https://github.com/lynngao/CRC_analysis/tree/main/abundance) as example of the format of required profiles.
 
-For For running tasks 2 and 3, both microbial species abundance profiles and prediction probability files are required. 
+For For running tasks 2 and 3, both microbial species abundance profiles and prediction probability files are required. See prediction probability profiles in [pred_prob](https://github.com/lynngao/CRC_analysis/tree/main/pred_prob) as example of the format of required files.
