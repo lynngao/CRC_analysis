@@ -1,6 +1,6 @@
 # Increasing prediction performance of colorectal cancer disease status using random forests classification based on metagenomic shotgun sequencing data
 
-Yilin Gao, Zifan Zhu, Fengzhu Sun, Increasing prediction performance of colorectal cancer disease status using random forests classification based on metagenomic shotgun sequencing data, Synthetic and Systems Biotechnology, Volume 7, Issue 1, 2022, Pages 574-585, ISSN 2405-805X, https://doi.org/10.1016/j.synbio.2022.01.005.
+#### Yilin Gao, Zifan Zhu, Fengzhu Sun, Increasing prediction performance of colorectal cancer disease status using random forests classification based on metagenomic shotgun sequencing data, Synthetic and Systems Biotechnology, Volume 7, Issue 1, 2022, Pages 574-585, ISSN 2405-805X, https://doi.org/10.1016/j.synbio.2022.01.005.
 
 This repository contains R scripts for running the analysis described in our manuscript. 
 The R scripts can be divided into 4 basic components:
